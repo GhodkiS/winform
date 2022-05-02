@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQ1g6jBVagAA6O8c39s1iHcnsCvJyJgpPyFpvM5OX1YgybGzTGEoak8ZdiUqOLD9LGVyuQ51yu7Fj9BIqfzobA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Saurabh Ghodki\\Documents\\PRIYA\\winformmyprojectv1\\winformmyprojectv1\\winformmyprojectv1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saurabh Ghodki\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Saurabh Ghodki\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Saurabh Ghodki\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Saurabh Ghodki\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Saurabh Ghodki\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\Saurabh Ghodki\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Saurabh Ghodki\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Saurabh Ghodki\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
